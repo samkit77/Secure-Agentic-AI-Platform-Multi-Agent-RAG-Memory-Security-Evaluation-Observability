@@ -16,7 +16,6 @@ en-core-web-lg
 deepeval
 langchain_mcp_adapters
 langchain_community
-ddgs
 rank_bm25
 ragas
 pyrit

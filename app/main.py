@@ -23,7 +23,7 @@ load_dotenv()
 # ============================================================
 
 app = FastAPI(
-    title="Agentic RAG API"
+    title="Agentic RAG "
 )
 
 
